@@ -37,3 +37,6 @@ div.region-header{
 #header .container{
 	overflow: inherit;
 }
+#page-wrapper{
+	position:relative;
+}
