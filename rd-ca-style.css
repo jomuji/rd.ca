@@ -28,3 +28,9 @@ div#block-block-228 .content ul li{
 	line-height:30px;
 	padding:0 10px;
 	}
+div.region-header{
+	overflow:auto;
+}
+#header .container{
+	overflow:auto;
+}
