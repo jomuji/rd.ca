@@ -29,8 +29,8 @@ div#block-block-228 .content ul li{
 	padding:0 10px;
 	}
 div.region-header{
-	overflow:auto;
+	overflow: inherit;
 }
 #header .container{
-	overflow:auto;
+	overflow: inherit;
 }
