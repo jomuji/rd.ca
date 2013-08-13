@@ -6,6 +6,10 @@ div#block-block-228 .content{
 	background:#000000;
 	color:#ffffff;	
 	height:30px;
+	z-index:1030;
+	position:absolute;
+	left:0px;
+	right:0px;
 }
 div#block-block-228 .content ul{
 	color:#ffffff;	
@@ -19,3 +23,6 @@ div#block-block-228 .content ul li{
 	line-height:30px;
 	padding:0 10px;
 	}
+#page-wrapper{
+	position:relative;
+}
