@@ -2,9 +2,11 @@
 body{
   background:#000000;
 }
-
-div#block-block-228 .content ul{
+div#block-block-228 .content{
 	background:#000000;
+	color:#ffffff;	
+}
+div#block-block-228 .content ul{
 	color:#ffffff;	
 }
 div#block-block-228 .content ul li{
