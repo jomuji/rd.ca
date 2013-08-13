@@ -2,6 +2,9 @@
 body{
   background:#000000;
 }
+div#block-block-228{
+	margin-bottom:0;
+}
 div#block-block-228 .content{
 	background:#000000;
 	color:#ffffff;	
@@ -25,6 +28,3 @@ div#block-block-228 .content ul li{
 	line-height:30px;
 	padding:0 10px;
 	}
-#page-wrapper{
-	position:relative;
-}
