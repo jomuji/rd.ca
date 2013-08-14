@@ -48,4 +48,8 @@ div.region-header{
     margin: 0;
     font-family:"Lato","Verdana",sans-serif;
     font-weight: 700;
+    color:#009EC6;
+}
+.main .item-list h3 a{
+    color:#009EC6;
 }
