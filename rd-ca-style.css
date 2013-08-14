@@ -64,7 +64,9 @@ div.region-header{
 }
 .main h2, .sidebar h2, .view-recipe-tags h3, .sidebar h3 {
     color: #000000;
-    font: bold 20px/25px "Lato";
+    font-size: 20px;
+    font-family:"Lato","Verdana",sans-serif;
+    line-height: 25px;
     margin: 0 0 4px;
     text-transform: uppercase;
 }
