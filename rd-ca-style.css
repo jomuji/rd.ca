@@ -42,3 +42,9 @@ div.region-header{
 #page-wrapper{
 	position:relative;
 }
+.main .item-list h3 {
+    font-size: 12px;
+    line-height: 15px;
+    margin: 0;
+    font-family:"Lato","Verdana",sans-serif;
+}
