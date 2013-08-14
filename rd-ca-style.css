@@ -72,3 +72,8 @@ div.region-header{
     background: url('http://www.rd.com/wp-content/themes/readersdigest/images/half-circle.png') no-repeat left top;
     padding-left:20px;
 }
+.pane-block-24 ul li{
+	font-size: 16px;
+    font-family:"Alegreya","Times New Roman",serif;
+	
+}
