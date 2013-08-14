@@ -53,3 +53,9 @@ div.region-header{
 .main .item-list h3 a{
     color:#009EC6;
 }
+.main .item-list p {
+    margin: 0 0 7px;
+    font-family: "Alegreya","Times New Roman",serif;
+    font-weight:400;
+    color:#000000;
+}
