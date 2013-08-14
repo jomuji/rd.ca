@@ -69,4 +69,6 @@ div.region-header{
     line-height: 21px;
     margin: 0 0 4px;
     text-transform: uppercase;
+    background: url('http://www.rd.com/wp-content/themes/readersdigest/images/half-circle.png') no-repeat left top;
+    padding-left:30px;
 }
