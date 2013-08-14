@@ -69,7 +69,7 @@ div.region-header{
     line-height: 21px;
     margin: 0 0 4px;
     text-transform: uppercase;
-    background: url('http://www.rd.com/wp-content/themes/readersdigest/images/half-circle.png') no-repeat left top;
+    background: #ffff00 url('http://www.rd.com/wp-content/themes/readersdigest/images/half-circle.png') no-repeat left top;
     padding:2px 0 5px 20px;
 }
 .pane-block-24 ul li{
