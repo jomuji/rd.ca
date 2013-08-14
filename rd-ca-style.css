@@ -59,4 +59,6 @@ div.region-header{
     font-weight:400;
     color:#000000;
     font-size:16px;
+    line-height: 20px;
+    letter-spacing: normal;
 }
