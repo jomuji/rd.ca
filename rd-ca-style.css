@@ -70,15 +70,15 @@ div.region-header{
     margin: 0 0 4px;
     text-transform: uppercase;
     background: #ffff00;
-    border-left: 20px solid transparent;
     padding:2px 0 5px 20px;
-    background-clip: border-box;
+    position:relative;
 }
 .main h2, .sidebar h2:before, .view-recipe-tags h3, .sidebar h3:before{
        content:url('http://www.rd.com/wp-content/themes/readersdigest/images/half-circle.png');
        display:block;
        position:relative;
        left: -30px;
+       float:left;
   }
 .pane-block-24 ul li{
 	font-size: 16px;
