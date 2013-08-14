@@ -73,7 +73,7 @@ div.region-header{
     padding:2px 0 5px 0;
     position:relative;
 }
-.main h2, .sidebar h2:before, .view-recipe-tags h3, .sidebar h3:before{
+.main h2, .sidebar h2:before, .view-recipe-tags h3:before, .sidebar h3:before{
        content:url('http://www.rd.com/wp-content/themes/readersdigest/images/half-circle.png');
        display:block;
        position:relative;
