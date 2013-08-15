@@ -165,3 +165,7 @@
 	line-height:40px;
 	text-transform: none;
 }
+.node-type-slideshow .intro p{
+	font-family:"Lato","Verdana",sans-serif;
+	font-weight:100;
+}
