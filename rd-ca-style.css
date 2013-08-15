@@ -204,6 +204,6 @@
 	font-weight:200;
 	font-size: 16px;
 }
-.slide-control #slideshow-slide-next a, .slide-control #slideshow-slide-previous a{
+.slide-control #slideshow-slide-next span, .slide-control #slideshow-slide-previous span{
 	color:#0099cc;
 }
