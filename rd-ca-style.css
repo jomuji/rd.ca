@@ -207,3 +207,7 @@
 .slide-control #slideshow-slide-next span, .slide-control #slideshow-slide-previous span{
 	color:#0099cc;
 }
+.visual-box {
+	border:none;
+	background:#ffffff;
+}
