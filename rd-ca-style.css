@@ -193,3 +193,8 @@
 	line-height:normal;
 	letter-spacing: normal;
 }
+#slideshow-slide-description p {
+	font-family: "Alegreya","Times New Roman",serif;
+	font-size:16px;
+	line-height:normal;
+}
